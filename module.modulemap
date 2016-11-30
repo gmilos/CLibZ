@@ -1,4 +1,3 @@
 module sz [system] {
     link "z"
-    export *
 }
